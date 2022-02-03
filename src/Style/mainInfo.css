@@ -1,0 +1,31 @@
+.main-container{
+    text-align: center;
+    color: white;
+    font-family: Inter;
+    font-style: normal;
+    background-color: #1A1B21;
+    width: 317px;
+    line-height: 10px;
+}
+.main-container > h3{
+    font-weight: bold;
+    font-size: 25px;
+}
+.main-container > h4{
+    color: #F3BF99;
+}
+
+.main-container > a > button{
+    color: white;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    width: 200px;
+    height: 34px;
+    background: #5093E2;
+    border: 1px solid #5093E2;
+    /*box-sizing: border-box;*/
+    border-radius: 6px;
+}
+

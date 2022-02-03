@@ -1,0 +1,17 @@
+.about-container{
+    color: white;
+    width: 317px;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 16px;
+    margin: 0;
+    line-height: 13px;
+    padding-left: 20px;
+    /*padding-top: 20px;*/
+}
+
+.about-container > p{
+    width: 247px;
+    font-weight: normal;
+    font-size: 10.24px;
+}
